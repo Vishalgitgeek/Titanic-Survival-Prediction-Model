@@ -10,6 +10,6 @@ This project predicts whether a passenger on the Titanic would survive or not ba
 - The model was trained on this dataset to predict survival based on these features.
 
 ## Results
-After training and evaluation, the model showed an accuracy of 74% on the test dataset. Below is a sample confusion matrix 
+After training and evaluation, the model showed an accuracy of 74% on the test dataset. Below is  confusion matrix 
 - [80 21]
   [25 53]
